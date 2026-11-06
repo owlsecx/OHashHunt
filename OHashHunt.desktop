@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OHashHunt
+Comment=Hash identifier + fast wordlist cracker (MD4/5, SHA-1/224/256/384/512, NTLM, salted)
+Exec=OHashHunt
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OPass;
+Keywords=OHashHunt;owlsec;security;hash;ntlm;crack;wordlist;
